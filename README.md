@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhishekjoshi88
-- 👀 I’m interested in Website Developement, am extremely passionate about hardware Tech stuff and their working. 
+- 👀 I’m interested in Website Developement, I am extremely passionate about hardware Tech stuff and their working. 
 - 🌱 I’m currently learning Javascript, CSS, Database Management and Operating Systems.
 - 💞️ I’m looking to collaborate on any interesting projects coming my way.
 - 📫 Reach me on abhishek11joshi11@gmail.com
